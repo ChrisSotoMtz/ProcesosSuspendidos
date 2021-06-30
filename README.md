@@ -1,7 +1,7 @@
 # Nombre de la actividad
 Procesos suspendidos
 
-# Requerimientps
+# Requerimients
 1. Cumplir con todos los requerimientos del programa 7 (actividad 14).
 2. Teclas a utilizar:
 <img src="https://cdn.discordapp.com/attachments/762088441314934794/859698966084976640/unknown.png" width="527" height="624">
